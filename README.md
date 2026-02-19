@@ -1,0 +1,2 @@
+# numerology
+a terminal calculator
