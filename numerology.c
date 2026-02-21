@@ -34,7 +34,7 @@ int main() {
 				printf("Result: %.2f\n", num1 / num2);
 				}
 				else{
-					printf("Motherfucker you can't divide by 0.\n");
+					printf("My man, are you dumb or what? You can't divide by 0!\n");
 				}
 				break;
 
